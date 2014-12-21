@@ -10,25 +10,23 @@ Note: if the input is aaaaa, the longest string that occurs twice is aaaa
 
 For example, if this input file is:
 
+```sh
 	AAAB
-	
 	AABA
-	
 	ABBB
-
+```
 
 Output would look something like
 
-
+```sh
 Longest sequence that occurs 2 times has basic length 6 and is AABAAB
-
 Occurrence #1 starts at line 1
 Occurrence #2 starts at line 2
 
 Longest sequence that occurs 3 times has basic length 3 and is AAB
-
 Occurrence #1 starts at line 1
 Occurrence #2 starts at line 2
 Occurrence #3 starts at line 2
 
 ...
+```
