@@ -1,0 +1,906 @@
+Renan Santana
+PID: 4031451
+Due: 12/4/14
+
+run:
+******  File: dna1.txt  ******
+
+Longest sequence that occurs 2 times has length 10 and is AAGAGATGCA
+Occurrence  #1 starts at line 16
+Occurrence  #2 starts at line 20
+
+Longest sequence that occurs 3 times has length 6 and is AAGTGT
+Occurrence  #1 starts at line 3
+Occurrence  #2 starts at line 4
+Occurrence  #3 starts at line 19
+
+Longest sequence that occurs 4 times has length 6 and is AAGTGT
+Occurrence  #1 starts at line 3
+Occurrence  #2 starts at line 4
+Occurrence  #3 starts at line 17
+Occurrence  #4 starts at line 19
+
+Longest sequence that occurs 5 times has length 5 and is AAGTG
+Occurrence  #1 starts at line 3
+Occurrence  #2 starts at line 4
+Occurrence  #3 starts at line 15
+Occurrence  #4 starts at line 17
+Occurrence  #5 starts at line 19
+
+Longest sequence that occurs 6 times has length 4 and is AACC
+Occurrence  #1 starts at line 6
+Occurrence  #2 starts at line 7
+Occurrence  #3 starts at line 7
+Occurrence  #4 starts at line 8
+Occurrence  #5 starts at line 11
+Occurrence  #6 starts at line 20
+
+Longest sequence that occurs 7 times has length 4 and is AACC
+Occurrence  #1 starts at line 6
+Occurrence  #2 starts at line 7
+Occurrence  #3 starts at line 7
+Occurrence  #4 starts at line 8
+Occurrence  #5 starts at line 11
+Occurrence  #6 starts at line 19
+Occurrence  #7 starts at line 20
+
+Longest sequence that occurs 8 times has length 4 and is ACCA
+Occurrence  #1 starts at line 6
+Occurrence  #2 starts at line 7
+Occurrence  #3 starts at line 8
+Occurrence  #4 starts at line 8
+Occurrence  #5 starts at line 13
+Occurrence  #6 starts at line 16
+Occurrence  #7 starts at line 19
+Occurrence  #8 starts at line 20
+
+Longest sequence that occurs 9 times has length 4 and is TATT
+Occurrence  #1 starts at line 3
+Occurrence  #2 starts at line 3
+Occurrence  #3 starts at line 3
+Occurrence  #4 starts at line 4
+Occurrence  #5 starts at line 9
+Occurrence  #6 starts at line 15
+Occurrence  #7 starts at line 15
+Occurrence  #8 starts at line 16
+Occurrence  #9 starts at line 19
+
+Longest sequence that occurs 10 times has length 4 and is TATT
+Occurrence  #1 starts at line 3
+Occurrence  #2 starts at line 3
+Occurrence  #3 starts at line 3
+Occurrence  #4 starts at line 4
+Occurrence  #5 starts at line 9
+Occurrence  #6 starts at line 13
+Occurrence  #7 starts at line 15
+Occurrence  #8 starts at line 15
+Occurrence  #9 starts at line 16
+Occurrence  #10 starts at line 19
+******  END  ******
+
+******  File: dna2.txt  ******
+
+Longest sequence that occurs 2 times has length 11 and is ATTCAACTGAT
+Occurrence  #1 starts at line 42
+Occurrence  #2 starts at line 179
+
+Longest sequence that occurs 3 times has length 8 and is AAAGATGA
+Occurrence  #1 starts at line 2
+Occurrence  #2 starts at line 11
+Occurrence  #3 starts at line 12
+
+Longest sequence that occurs 4 times has length 7 and is AACTGGG
+Occurrence  #1 starts at line 15
+Occurrence  #2 starts at line 87
+Occurrence  #3 starts at line 99
+Occurrence  #4 starts at line 168
+
+Longest sequence that occurs 5 times has length 7 and is ACAATGG
+Occurrence  #1 starts at line 3
+Occurrence  #2 starts at line 23
+Occurrence  #3 starts at line 91
+Occurrence  #4 starts at line 96
+Occurrence  #5 starts at line 169
+
+Longest sequence that occurs 6 times has length 6 and is AAGAGC
+Occurrence  #1 starts at line 10
+Occurrence  #2 starts at line 19
+Occurrence  #3 starts at line 55
+Occurrence  #4 starts at line 93
+Occurrence  #5 starts at line 149
+Occurrence  #6 starts at line 177
+
+Longest sequence that occurs 7 times has length 6 and is AATGCC
+Occurrence  #1 starts at line 55
+Occurrence  #2 starts at line 85
+Occurrence  #3 starts at line 92
+Occurrence  #4 starts at line 105
+Occurrence  #5 starts at line 138
+Occurrence  #6 starts at line 143
+Occurrence  #7 starts at line 181
+
+Longest sequence that occurs 8 times has length 6 and is AGTCCC
+Occurrence  #1 starts at line 10
+Occurrence  #2 starts at line 44
+Occurrence  #3 starts at line 84
+Occurrence  #4 starts at line 88
+Occurrence  #5 starts at line 140
+Occurrence  #6 starts at line 152
+Occurrence  #7 starts at line 152
+Occurrence  #8 starts at line 176
+
+Longest sequence that occurs 9 times has length 6 and is AGTCCC
+Occurrence  #1 starts at line 5
+Occurrence  #2 starts at line 10
+Occurrence  #3 starts at line 44
+Occurrence  #4 starts at line 84
+Occurrence  #5 starts at line 88
+Occurrence  #6 starts at line 140
+Occurrence  #7 starts at line 152
+Occurrence  #8 starts at line 152
+Occurrence  #9 starts at line 176
+
+Longest sequence that occurs 10 times has length 6 and is TTGTAT
+Occurrence  #1 starts at line 5
+Occurrence  #2 starts at line 7
+Occurrence  #3 starts at line 75
+Occurrence  #4 starts at line 113
+Occurrence  #5 starts at line 130
+Occurrence  #6 starts at line 141
+Occurrence  #7 starts at line 151
+Occurrence  #8 starts at line 166
+Occurrence  #9 starts at line 191
+Occurrence  #10 starts at line 199
+******  END  ******
+
+******  File: dna3.txt  ******
+
+Longest sequence that occurs 2 times has length 15 and is TCAGTTCACCGTTAT
+Occurrence  #1 starts at line 722
+Occurrence  #2 starts at line 1133
+
+Longest sequence that occurs 3 times has length 12 and is ACAACTAGGACC
+Occurrence  #1 starts at line 81
+Occurrence  #2 starts at line 967
+Occurrence  #3 starts at line 1474
+
+Longest sequence that occurs 4 times has length 10 and is AACCTAGGTT
+Occurrence  #1 starts at line 23
+Occurrence  #2 starts at line 682
+Occurrence  #3 starts at line 1874
+Occurrence  #4 starts at line 1907
+
+Longest sequence that occurs 5 times has length 9 and is CAACTAGGA
+Occurrence  #1 starts at line 81
+Occurrence  #2 starts at line 144
+Occurrence  #3 starts at line 967
+Occurrence  #4 starts at line 1474
+Occurrence  #5 starts at line 1857
+
+Longest sequence that occurs 6 times has length 9 and is CAACTAGGA
+Occurrence  #1 starts at line 81
+Occurrence  #2 starts at line 144
+Occurrence  #3 starts at line 967
+Occurrence  #4 starts at line 1306
+Occurrence  #5 starts at line 1474
+Occurrence  #6 starts at line 1857
+
+Longest sequence that occurs 7 times has length 8 and is AAACGGCG
+Occurrence  #1 starts at line 542
+Occurrence  #2 starts at line 604
+Occurrence  #3 starts at line 1210
+Occurrence  #4 starts at line 1296
+Occurrence  #5 starts at line 1359
+Occurrence  #6 starts at line 1777
+Occurrence  #7 starts at line 1937
+
+Longest sequence that occurs 8 times has length 8 and is AACTAGGA
+Occurrence  #1 starts at line 81
+Occurrence  #2 starts at line 144
+Occurrence  #3 starts at line 967
+Occurrence  #4 starts at line 1306
+Occurrence  #5 starts at line 1474
+Occurrence  #6 starts at line 1485
+Occurrence  #7 starts at line 1550
+Occurrence  #8 starts at line 1857
+
+Longest sequence that occurs 9 times has length 8 and is CGTTGACC
+Occurrence  #1 starts at line 93
+Occurrence  #2 starts at line 817
+Occurrence  #3 starts at line 882
+Occurrence  #4 starts at line 908
+Occurrence  #5 starts at line 1021
+Occurrence  #6 starts at line 1742
+Occurrence  #7 starts at line 1793
+Occurrence  #8 starts at line 1797
+Occurrence  #9 starts at line 1842
+
+Longest sequence that occurs 10 times has length 7 and is AAAAGAG
+Occurrence  #1 starts at line 218
+Occurrence  #2 starts at line 358
+Occurrence  #3 starts at line 378
+Occurrence  #4 starts at line 539
+Occurrence  #5 starts at line 826
+Occurrence  #6 starts at line 973
+Occurrence  #7 starts at line 991
+Occurrence  #8 starts at line 1187
+Occurrence  #9 starts at line 1620
+Occurrence  #10 starts at line 1999
+******  END  ******
+
+******  File: dna4.txt  ******
+
+Longest sequence that occurs 2 times has length 23 and is GAACCCATATCAACACTCTCCGC
+Occurrence  #1 starts at line 2619
+Occurrence  #2 starts at line 14862
+
+Longest sequence that occurs 3 times has length 14 and is CTATTTATCTTGTA
+Occurrence  #1 starts at line 1653
+Occurrence  #2 starts at line 5608
+Occurrence  #3 starts at line 13248
+
+Longest sequence that occurs 4 times has length 12 and is ATTACTGGGTAT
+Occurrence  #1 starts at line 8933
+Occurrence  #2 starts at line 10858
+Occurrence  #3 starts at line 18267
+Occurrence  #4 starts at line 18929
+
+Longest sequence that occurs 5 times has length 11 and is AAACTGTGTCA
+Occurrence  #1 starts at line 2749
+Occurrence  #2 starts at line 3181
+Occurrence  #3 starts at line 10484
+Occurrence  #4 starts at line 11300
+Occurrence  #5 starts at line 12945
+
+Longest sequence that occurs 6 times has length 10 and is AAACCTATCT
+Occurrence  #1 starts at line 2557
+Occurrence  #2 starts at line 4008
+Occurrence  #3 starts at line 10991
+Occurrence  #4 starts at line 12167
+Occurrence  #5 starts at line 15791
+Occurrence  #6 starts at line 16340
+
+Longest sequence that occurs 7 times has length 10 and is AAGATACCGT
+Occurrence  #1 starts at line 8028
+Occurrence  #2 starts at line 12400
+Occurrence  #3 starts at line 12480
+Occurrence  #4 starts at line 12977
+Occurrence  #5 starts at line 13370
+Occurrence  #6 starts at line 14473
+Occurrence  #7 starts at line 17763
+
+Longest sequence that occurs 8 times has length 10 and is ATAGCGATGT
+Occurrence  #1 starts at line 1745
+Occurrence  #2 starts at line 3224
+Occurrence  #3 starts at line 4890
+Occurrence  #4 starts at line 6225
+Occurrence  #5 starts at line 8076
+Occurrence  #6 starts at line 12966
+Occurrence  #7 starts at line 15092
+Occurrence  #8 starts at line 16830
+
+Longest sequence that occurs 9 times has length 9 and is AAAAAAAAG
+Occurrence  #1 starts at line 888
+Occurrence  #2 starts at line 1867
+Occurrence  #3 starts at line 2197
+Occurrence  #4 starts at line 7607
+Occurrence  #5 starts at line 9970
+Occurrence  #6 starts at line 11488
+Occurrence  #7 starts at line 11840
+Occurrence  #8 starts at line 13385
+Occurrence  #9 starts at line 19916
+
+Longest sequence that occurs 10 times has length 9 and is AAAAATACG
+Occurrence  #1 starts at line 1034
+Occurrence  #2 starts at line 1586
+Occurrence  #3 starts at line 2269
+Occurrence  #4 starts at line 3544
+Occurrence  #5 starts at line 3825
+Occurrence  #6 starts at line 4450
+Occurrence  #7 starts at line 5462
+Occurrence  #8 starts at line 11197
+Occurrence  #9 starts at line 18307
+Occurrence  #10 starts at line 19080
+******  END  ******
+
+******  File: flips1.txt  ******
+
+Longest sequence that occurs 2 times has length 18 and is THTTTTTHTTHHTTTTTT
+Occurrence  #1 starts at line 7
+Occurrence  #2 starts at line 17
+
+Longest sequence that occurs 3 times has length 12 and is HTHTTTTHHTHT
+Occurrence  #1 starts at line 5
+Occurrence  #2 starts at line 8
+Occurrence  #3 starts at line 15
+
+Longest sequence that occurs 4 times has length 10 and is HHHTHHTHTT
+Occurrence  #1 starts at line 4
+Occurrence  #2 starts at line 7
+Occurrence  #3 starts at line 10
+Occurrence  #4 starts at line 20
+
+Longest sequence that occurs 5 times has length 9 and is HHHHHHHHH
+Occurrence  #1 starts at line 1
+Occurrence  #2 starts at line 1
+Occurrence  #3 starts at line 1
+Occurrence  #4 starts at line 1
+Occurrence  #5 starts at line 10
+
+Longest sequence that occurs 6 times has length 9 and is HHHHHHHHH
+Occurrence  #1 starts at line 1
+Occurrence  #2 starts at line 1
+Occurrence  #3 starts at line 1
+Occurrence  #4 starts at line 1
+Occurrence  #5 starts at line 10
+Occurrence  #6 starts at line 18
+
+Longest sequence that occurs 7 times has length 8 and is HHHHHHHH
+Occurrence  #1 starts at line 1
+Occurrence  #2 starts at line 1
+Occurrence  #3 starts at line 1
+Occurrence  #4 starts at line 1
+Occurrence  #5 starts at line 1
+Occurrence  #6 starts at line 10
+Occurrence  #7 starts at line 18
+
+Longest sequence that occurs 8 times has length 8 and is HHHHHHHH
+Occurrence  #1 starts at line 1
+Occurrence  #2 starts at line 1
+Occurrence  #3 starts at line 1
+Occurrence  #4 starts at line 1
+Occurrence  #5 starts at line 1
+Occurrence  #6 starts at line 10
+Occurrence  #7 starts at line 10
+Occurrence  #8 starts at line 18
+
+Longest sequence that occurs 9 times has length 8 and is HHHHHHHH
+Occurrence  #1 starts at line 1
+Occurrence  #2 starts at line 1
+Occurrence  #3 starts at line 1
+Occurrence  #4 starts at line 1
+Occurrence  #5 starts at line 1
+Occurrence  #6 starts at line 10
+Occurrence  #7 starts at line 10
+Occurrence  #8 starts at line 18
+Occurrence  #9 starts at line 18
+
+Longest sequence that occurs 10 times has length 8 and is TTTTTTTT
+Occurrence  #1 starts at line 7
+Occurrence  #2 starts at line 7
+Occurrence  #3 starts at line 9
+Occurrence  #4 starts at line 9
+Occurrence  #5 starts at line 12
+Occurrence  #6 starts at line 12
+Occurrence  #7 starts at line 13
+Occurrence  #8 starts at line 13
+Occurrence  #9 starts at line 13
+Occurrence  #10 starts at line 17
+******  END  ******
+
+******  File: flips2.txt  ******
+
+Longest sequence that occurs 2 times has length 25 and is HHHHHHHHHTTTTTHTTHHTTHTTT
+Occurrence  #1 starts at line 155
+Occurrence  #2 starts at line 191
+
+Longest sequence that occurs 3 times has length 17 and is HHHTHTTTHTHHHTHTH
+Occurrence  #1 starts at line 82
+Occurrence  #2 starts at line 125
+Occurrence  #3 starts at line 144
+
+Longest sequence that occurs 4 times has length 16 and is HHTTHHTTHTTTHHTT
+Occurrence  #1 starts at line 41
+Occurrence  #2 starts at line 41
+Occurrence  #3 starts at line 69
+Occurrence  #4 starts at line 129
+
+Longest sequence that occurs 5 times has length 15 and is HTTHHTTHTTTHHTT
+Occurrence  #1 starts at line 41
+Occurrence  #2 starts at line 41
+Occurrence  #3 starts at line 69
+Occurrence  #4 starts at line 129
+Occurrence  #5 starts at line 155
+
+Longest sequence that occurs 6 times has length 14 and is TTHHTTHTTTHHTT
+Occurrence  #1 starts at line 41
+Occurrence  #2 starts at line 41
+Occurrence  #3 starts at line 69
+Occurrence  #4 starts at line 116
+Occurrence  #5 starts at line 129
+Occurrence  #6 starts at line 155
+
+Longest sequence that occurs 7 times has length 13 and is THHTTHTTTHHTT
+Occurrence  #1 starts at line 41
+Occurrence  #2 starts at line 41
+Occurrence  #3 starts at line 69
+Occurrence  #4 starts at line 116
+Occurrence  #5 starts at line 129
+Occurrence  #6 starts at line 155
+Occurrence  #7 starts at line 156
+
+Longest sequence that occurs 8 times has length 12 and is HHTTHTTTHHTT
+Occurrence  #1 starts at line 41
+Occurrence  #2 starts at line 42
+Occurrence  #3 starts at line 69
+Occurrence  #4 starts at line 116
+Occurrence  #5 starts at line 155
+Occurrence  #6 starts at line 156
+Occurrence  #7 starts at line 161
+Occurrence  #8 starts at line 170
+
+Longest sequence that occurs 9 times has length 12 and is HHTTHTTTHHTT
+Occurrence  #1 starts at line 41
+Occurrence  #2 starts at line 42
+Occurrence  #3 starts at line 69
+Occurrence  #4 starts at line 116
+Occurrence  #5 starts at line 129
+Occurrence  #6 starts at line 155
+Occurrence  #7 starts at line 156
+Occurrence  #8 starts at line 161
+Occurrence  #9 starts at line 170
+
+Longest sequence that occurs 10 times has length 11 and is HHHHHHTTHTT
+Occurrence  #1 starts at line 22
+Occurrence  #2 starts at line 28
+Occurrence  #3 starts at line 30
+Occurrence  #4 starts at line 53
+Occurrence  #5 starts at line 55
+Occurrence  #6 starts at line 60
+Occurrence  #7 starts at line 92
+Occurrence  #8 starts at line 137
+Occurrence  #9 starts at line 158
+Occurrence  #10 starts at line 189
+******  END  ******
+
+******  File: flips3.txt  ******
+
+Longest sequence that occurs 2 times has length 32 and is THHHHHTTHTHTTTHTTHTHHTHTHHHHTHHT
+Occurrence  #1 starts at line 126
+Occurrence  #2 starts at line 569
+
+Longest sequence that occurs 3 times has length 23 and is TTTTTHTTTTHTTHHTTTTHHHH
+Occurrence  #1 starts at line 350
+Occurrence  #2 starts at line 1306
+Occurrence  #3 starts at line 1879
+
+Longest sequence that occurs 4 times has length 21 and is THTTTHTTTHHTTTTHTHHHT
+Occurrence  #1 starts at line 93
+Occurrence  #2 starts at line 455
+Occurrence  #3 starts at line 1003
+Occurrence  #4 starts at line 1935
+
+Longest sequence that occurs 5 times has length 19 and is HTTTTHTTTTHHHHHHHHT
+Occurrence  #1 starts at line 307
+Occurrence  #2 starts at line 617
+Occurrence  #3 starts at line 1396
+Occurrence  #4 starts at line 1460
+Occurrence  #5 starts at line 1970
+
+Longest sequence that occurs 6 times has length 18 and is HTHHTHTTHTHHHTHTTT
+Occurrence  #1 starts at line 266
+Occurrence  #2 starts at line 619
+Occurrence  #3 starts at line 1586
+Occurrence  #4 starts at line 1726
+Occurrence  #5 starts at line 1726
+Occurrence  #6 starts at line 1828
+
+Longest sequence that occurs 7 times has length 17 and is HHHTTTTHTTTTHHTTH
+Occurrence  #1 starts at line 165
+Occurrence  #2 starts at line 186
+Occurrence  #3 starts at line 227
+Occurrence  #4 starts at line 294
+Occurrence  #5 starts at line 494
+Occurrence  #6 starts at line 894
+Occurrence  #7 starts at line 1192
+
+Longest sequence that occurs 8 times has length 16 and is HHHTHHTTTHHTTTHH
+Occurrence  #1 starts at line 142
+Occurrence  #2 starts at line 202
+Occurrence  #3 starts at line 476
+Occurrence  #4 starts at line 1043
+Occurrence  #5 starts at line 1154
+Occurrence  #6 starts at line 1282
+Occurrence  #7 starts at line 1919
+Occurrence  #8 starts at line 1950
+
+Longest sequence that occurs 9 times has length 15 and is HHHHHHHHHHTTHHH
+Occurrence  #1 starts at line 76
+Occurrence  #2 starts at line 157
+Occurrence  #3 starts at line 174
+Occurrence  #4 starts at line 181
+Occurrence  #5 starts at line 349
+Occurrence  #6 starts at line 359
+Occurrence  #7 starts at line 922
+Occurrence  #8 starts at line 1086
+Occurrence  #9 starts at line 1524
+
+Longest sequence that occurs 10 times has length 15 and is HHHHHHHHTTHHHTT
+Occurrence  #1 starts at line 174
+Occurrence  #2 starts at line 181
+Occurrence  #3 starts at line 342
+Occurrence  #4 starts at line 359
+Occurrence  #5 starts at line 371
+Occurrence  #6 starts at line 441
+Occurrence  #7 starts at line 1086
+Occurrence  #8 starts at line 1115
+Occurrence  #9 starts at line 1524
+Occurrence  #10 starts at line 1864
+******  END  ******
+
+******  File: flips4.txt  ******
+
+Longest sequence that occurs 2 times has length 40 and is THHHHHHHTHHTHHTHHHHHHHTHHTTHHHTHTTTTHHTT
+Occurrence  #1 starts at line 1254
+Occurrence  #2 starts at line 8129
+
+Longest sequence that occurs 3 times has length 28 and is TTHTTHTTTHHTHHHTHHTHHTTHHTHT
+Occurrence  #1 starts at line 3328
+Occurrence  #2 starts at line 8934
+Occurrence  #3 starts at line 10832
+
+Longest sequence that occurs 4 times has length 25 and is THHHTHHTHHTHHHHTTHHHHTHTT
+Occurrence  #1 starts at line 5390
+Occurrence  #2 starts at line 10013
+Occurrence  #3 starts at line 14241
+Occurrence  #4 starts at line 14859
+
+Longest sequence that occurs 5 times has length 23 and is THHTTTTTTHHTHTTHHHTHHHT
+Occurrence  #1 starts at line 975
+Occurrence  #2 starts at line 3410
+Occurrence  #3 starts at line 8386
+Occurrence  #4 starts at line 14555
+Occurrence  #5 starts at line 15647
+
+Longest sequence that occurs 6 times has length 21 and is HHHHHHTTTTTTHTHTTHHTT
+Occurrence  #1 starts at line 659
+Occurrence  #2 starts at line 1895
+Occurrence  #3 starts at line 3522
+Occurrence  #4 starts at line 12652
+Occurrence  #5 starts at line 15953
+Occurrence  #6 starts at line 16624
+
+Longest sequence that occurs 7 times has length 20 and is HHHHHTHHTTHTHTHTTTTT
+Occurrence  #1 starts at line 867
+Occurrence  #2 starts at line 3194
+Occurrence  #3 starts at line 4346
+Occurrence  #4 starts at line 5820
+Occurrence  #5 starts at line 10779
+Occurrence  #6 starts at line 11167
+Occurrence  #7 starts at line 18744
+
+Longest sequence that occurs 8 times has length 20 and is HHHTTTTHHHHTTTHHHTTH
+Occurrence  #1 starts at line 5308
+Occurrence  #2 starts at line 6230
+Occurrence  #3 starts at line 6797
+Occurrence  #4 starts at line 7181
+Occurrence  #5 starts at line 9621
+Occurrence  #6 starts at line 9960
+Occurrence  #7 starts at line 11199
+Occurrence  #8 starts at line 12672
+
+Longest sequence that occurs 9 times has length 20 and is HHTHHTHTTTHHTHTTHTTH
+Occurrence  #1 starts at line 1054
+Occurrence  #2 starts at line 1229
+Occurrence  #3 starts at line 5068
+Occurrence  #4 starts at line 6767
+Occurrence  #5 starts at line 7520
+Occurrence  #6 starts at line 8676
+Occurrence  #7 starts at line 9816
+Occurrence  #8 starts at line 11663
+Occurrence  #9 starts at line 16370
+
+Longest sequence that occurs 10 times has length 19 and is HHTHHTHTTTHHTHTTHTT
+Occurrence  #1 starts at line 1054
+Occurrence  #2 starts at line 1229
+Occurrence  #3 starts at line 5068
+Occurrence  #4 starts at line 6767
+Occurrence  #5 starts at line 7520
+Occurrence  #6 starts at line 8676
+Occurrence  #7 starts at line 9816
+Occurrence  #8 starts at line 11663
+Occurrence  #9 starts at line 14597
+Occurrence  #10 starts at line 16370
+******  END  ******
+
+******  File: binary1.txt  ******
+
+Longest sequence that occurs 2 times has length 34 and is 0000000001000000000000000000000000
+Occurrence  #1 starts at line 13
+Occurrence  #2 starts at line 15
+
+Longest sequence that occurs 3 times has length 25 and is 0000000000000000000001000
+Occurrence  #1 starts at line 2
+Occurrence  #2 starts at line 8
+Occurrence  #3 starts at line 14
+
+Longest sequence that occurs 4 times has length 24 and is 000000000000000000000000
+Occurrence  #1 starts at line 14
+Occurrence  #2 starts at line 15
+Occurrence  #3 starts at line 15
+Occurrence  #4 starts at line 15
+
+Longest sequence that occurs 5 times has length 23 and is 00000000000000000000000
+Occurrence  #1 starts at line 14
+Occurrence  #2 starts at line 14
+Occurrence  #3 starts at line 15
+Occurrence  #4 starts at line 15
+Occurrence  #5 starts at line 15
+
+Longest sequence that occurs 6 times has length 23 and is 00000000000000000000000
+Occurrence  #1 starts at line 14
+Occurrence  #2 starts at line 14
+Occurrence  #3 starts at line 15
+Occurrence  #4 starts at line 15
+Occurrence  #5 starts at line 15
+Occurrence  #6 starts at line 15
+
+Longest sequence that occurs 7 times has length 22 and is 0000000000000000000000
+Occurrence  #1 starts at line 14
+Occurrence  #2 starts at line 14
+Occurrence  #3 starts at line 14
+Occurrence  #4 starts at line 15
+Occurrence  #5 starts at line 15
+Occurrence  #6 starts at line 15
+Occurrence  #7 starts at line 15
+
+Longest sequence that occurs 8 times has length 22 and is 0000000000000000000000
+Occurrence  #1 starts at line 14
+Occurrence  #2 starts at line 14
+Occurrence  #3 starts at line 14
+Occurrence  #4 starts at line 15
+Occurrence  #5 starts at line 15
+Occurrence  #6 starts at line 15
+Occurrence  #7 starts at line 15
+Occurrence  #8 starts at line 15
+
+Longest sequence that occurs 9 times has length 21 and is 000000000000000000000
+Occurrence  #1 starts at line 2
+Occurrence  #2 starts at line 14
+Occurrence  #3 starts at line 14
+Occurrence  #4 starts at line 14
+Occurrence  #5 starts at line 15
+Occurrence  #6 starts at line 15
+Occurrence  #7 starts at line 15
+Occurrence  #8 starts at line 15
+Occurrence  #9 starts at line 15
+
+Longest sequence that occurs 10 times has length 21 and is 000000000000000000000
+Occurrence  #1 starts at line 2
+Occurrence  #2 starts at line 8
+Occurrence  #3 starts at line 14
+Occurrence  #4 starts at line 14
+Occurrence  #5 starts at line 14
+Occurrence  #6 starts at line 15
+Occurrence  #7 starts at line 15
+Occurrence  #8 starts at line 15
+Occurrence  #9 starts at line 15
+Occurrence  #10 starts at line 15
+******  END  ******
+
+******  File: binary2.txt  ******
+
+Longest sequence that occurs 2 times has length 41 and is 00000001000010000000000000000000000000001
+Occurrence  #1 starts at line 121
+Occurrence  #2 starts at line 142
+
+Longest sequence that occurs 3 times has length 34 and is 0000000100000000000000000000000000
+Occurrence  #1 starts at line 80
+Occurrence  #2 starts at line 131
+Occurrence  #3 starts at line 158
+
+Longest sequence that occurs 4 times has length 32 and is 00000000000000000000000000010000
+Occurrence  #1 starts at line 8
+Occurrence  #2 starts at line 143
+Occurrence  #3 starts at line 158
+Occurrence  #4 starts at line 182
+
+Longest sequence that occurs 5 times has length 31 and is 0000000000000000000000000010000
+Occurrence  #1 starts at line 8
+Occurrence  #2 starts at line 143
+Occurrence  #3 starts at line 158
+Occurrence  #4 starts at line 182
+Occurrence  #5 starts at line 193
+
+Longest sequence that occurs 6 times has length 31 and is 0000100000000000000000000000000
+Occurrence  #1 starts at line 80
+Occurrence  #2 starts at line 121
+Occurrence  #3 starts at line 131
+Occurrence  #4 starts at line 142
+Occurrence  #5 starts at line 158
+Occurrence  #6 starts at line 182
+
+Longest sequence that occurs 7 times has length 30 and is 000010000000000000000000000000
+Occurrence  #1 starts at line 80
+Occurrence  #2 starts at line 109
+Occurrence  #3 starts at line 121
+Occurrence  #4 starts at line 131
+Occurrence  #5 starts at line 142
+Occurrence  #6 starts at line 158
+Occurrence  #7 starts at line 182
+
+Longest sequence that occurs 8 times has length 29 and is 00010000000000000000000000000
+Occurrence  #1 starts at line 8
+Occurrence  #2 starts at line 80
+Occurrence  #3 starts at line 109
+Occurrence  #4 starts at line 121
+Occurrence  #5 starts at line 131
+Occurrence  #6 starts at line 142
+Occurrence  #7 starts at line 158
+Occurrence  #8 starts at line 182
+
+Longest sequence that occurs 9 times has length 28 and is 0000000000000000000000000000
+Occurrence  #1 starts at line 7
+Occurrence  #2 starts at line 7
+Occurrence  #3 starts at line 7
+Occurrence  #4 starts at line 8
+Occurrence  #5 starts at line 158
+Occurrence  #6 starts at line 158
+Occurrence  #7 starts at line 158
+Occurrence  #8 starts at line 158
+Occurrence  #9 starts at line 182
+
+Longest sequence that occurs 10 times has length 27 and is 000000000000000000000000000
+Occurrence  #1 starts at line 7
+Occurrence  #2 starts at line 7
+Occurrence  #3 starts at line 7
+Occurrence  #4 starts at line 8
+Occurrence  #5 starts at line 158
+Occurrence  #6 starts at line 158
+Occurrence  #7 starts at line 158
+Occurrence  #8 starts at line 158
+Occurrence  #9 starts at line 182
+Occurrence  #10 starts at line 182
+******  END  ******
+
+******  File: binary3.txt  ******
+
+Longest sequence that occurs 2 times has length 55 and is 0000000000000000000 ... 10000000000000000010
+Occurrence  #1 starts at line 62
+Occurrence  #2 starts at line 1550
+
+Longest sequence that occurs 3 times has length 48 and is 000000000000000000000000000000000100000000000000
+Occurrence  #1 starts at line 62
+Occurrence  #2 starts at line 1550
+Occurrence  #3 starts at line 1617
+
+Longest sequence that occurs 4 times has length 47 and is 00000000000000000000000000000000100000000000000
+Occurrence  #1 starts at line 10
+Occurrence  #2 starts at line 62
+Occurrence  #3 starts at line 1550
+Occurrence  #4 starts at line 1617
+
+Longest sequence that occurs 5 times has length 44 and is 00000000000000000000000000000000100000000000
+Occurrence  #1 starts at line 10
+Occurrence  #2 starts at line 62
+Occurrence  #3 starts at line 849
+Occurrence  #4 starts at line 1550
+Occurrence  #5 starts at line 1617
+
+Longest sequence that occurs 6 times has length 42 and is 000000000000000000000000000000000000000000
+Occurrence  #1 starts at line 680
+Occurrence  #2 starts at line 680
+Occurrence  #3 starts at line 680
+Occurrence  #4 starts at line 1604
+Occurrence  #5 starts at line 1604
+Occurrence  #6 starts at line 1915
+
+Longest sequence that occurs 7 times has length 41 and is 00000000000000000000000000000000000000000
+Occurrence  #1 starts at line 680
+Occurrence  #2 starts at line 680
+Occurrence  #3 starts at line 680
+Occurrence  #4 starts at line 680
+Occurrence  #5 starts at line 1604
+Occurrence  #6 starts at line 1604
+Occurrence  #7 starts at line 1915
+
+Longest sequence that occurs 8 times has length 41 and is 00000000000000000000000000000000000000000
+Occurrence  #1 starts at line 680
+Occurrence  #2 starts at line 680
+Occurrence  #3 starts at line 680
+Occurrence  #4 starts at line 680
+Occurrence  #5 starts at line 1604
+Occurrence  #6 starts at line 1604
+Occurrence  #7 starts at line 1604
+Occurrence  #8 starts at line 1915
+
+Longest sequence that occurs 9 times has length 41 and is 00000000000000000000000000000000000000000
+Occurrence  #1 starts at line 680
+Occurrence  #2 starts at line 680
+Occurrence  #3 starts at line 680
+Occurrence  #4 starts at line 680
+Occurrence  #5 starts at line 1604
+Occurrence  #6 starts at line 1604
+Occurrence  #7 starts at line 1604
+Occurrence  #8 starts at line 1915
+Occurrence  #9 starts at line 1915
+
+Longest sequence that occurs 10 times has length 40 and is 0000000000000000000000000000000000000000
+Occurrence  #1 starts at line 680
+Occurrence  #2 starts at line 680
+Occurrence  #3 starts at line 680
+Occurrence  #4 starts at line 680
+Occurrence  #5 starts at line 680
+Occurrence  #6 starts at line 1604
+Occurrence  #7 starts at line 1604
+Occurrence  #8 starts at line 1604
+Occurrence  #9 starts at line 1915
+Occurrence  #10 starts at line 1915
+******  END  ******
+
+******  File: binary4.txt  ******
+
+Longest sequence that occurs 2 times has length 70 and is 0000000000000000000 ... 00000000000010000000
+Occurrence  #1 starts at line 2045
+Occurrence  #2 starts at line 3161
+
+Longest sequence that occurs 3 times has length 59 and is 0100000100000000000 ... 00000000000000000000
+Occurrence  #1 starts at line 2700
+Occurrence  #2 starts at line 10488
+Occurrence  #3 starts at line 15805
+
+Longest sequence that occurs 4 times has length 55 and is 0000100000000000000 ... 00000000000000000000
+Occurrence  #1 starts at line 2700
+Occurrence  #2 starts at line 7415
+Occurrence  #3 starts at line 10488
+Occurrence  #4 starts at line 15805
+
+Longest sequence that occurs 5 times has length 53 and is 0000000000000000000 ... 00000000000000000000
+Occurrence  #1 starts at line 2700
+Occurrence  #2 starts at line 2701
+Occurrence  #3 starts at line 2701
+Occurrence  #4 starts at line 2701
+Occurrence  #5 starts at line 2701
+
+Longest sequence that occurs 6 times has length 53 and is 0000000000000000000 ... 00000000000000000000
+Occurrence  #1 starts at line 2700
+Occurrence  #2 starts at line 2701
+Occurrence  #3 starts at line 2701
+Occurrence  #4 starts at line 2701
+Occurrence  #5 starts at line 2701
+Occurrence  #6 starts at line 15805
+
+Longest sequence that occurs 7 times has length 52 and is 0000000000000000000 ... 00000000000000000000
+Occurrence  #1 starts at line 2700
+Occurrence  #2 starts at line 2701
+Occurrence  #3 starts at line 2701
+Occurrence  #4 starts at line 2701
+Occurrence  #5 starts at line 2701
+Occurrence  #6 starts at line 2701
+Occurrence  #7 starts at line 15805
+
+Longest sequence that occurs 8 times has length 52 and is 0000000000000000000 ... 00000000000000000000
+Occurrence  #1 starts at line 2700
+Occurrence  #2 starts at line 2701
+Occurrence  #3 starts at line 2701
+Occurrence  #4 starts at line 2701
+Occurrence  #5 starts at line 2701
+Occurrence  #6 starts at line 2701
+Occurrence  #7 starts at line 15805
+Occurrence  #8 starts at line 15805
+
+Longest sequence that occurs 9 times has length 51 and is 0000000000000000000 ... 00000000000000000000
+Occurrence  #1 starts at line 2700
+Occurrence  #2 starts at line 2701
+Occurrence  #3 starts at line 2701
+Occurrence  #4 starts at line 2701
+Occurrence  #5 starts at line 2701
+Occurrence  #6 starts at line 2701
+Occurrence  #7 starts at line 2701
+Occurrence  #8 starts at line 15805
+Occurrence  #9 starts at line 15805
+
+Longest sequence that occurs 10 times has length 51 and is 0000000000000000000 ... 00000000000000000000
+Occurrence  #1 starts at line 2700
+Occurrence  #2 starts at line 2701
+Occurrence  #3 starts at line 2701
+Occurrence  #4 starts at line 2701
+Occurrence  #5 starts at line 2701
+Occurrence  #6 starts at line 2701
+Occurrence  #7 starts at line 2701
+Occurrence  #8 starts at line 15805
+Occurrence  #9 starts at line 15805
+Occurrence  #10 starts at line 15805
+******  END  ******
+
+BUILD SUCCESSFUL (total time: 1 second)
