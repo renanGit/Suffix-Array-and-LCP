@@ -9,6 +9,7 @@ Given a string find for k = 2, 3, ..., 10, what is the longest string that occur
 Note: if the input is aaaaa, the longest string that occurs twice is aaaa
 
 For example, if this input file is:
+
 	AAAB
 	
 	AABA
