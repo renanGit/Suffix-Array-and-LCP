@@ -11,9 +11,9 @@ Note: if the input is aaaaa, the longest string that occurs twice is aaaa
 For example, if this input file is:
 
 ```sh
-	AAAB
-	AABA
-	ABBB
+AAAB
+AABA
+ABBB
 ```
 
 Output would look something like
